@@ -1,4 +1,4 @@
-This is a extension for the CMS Contao (www.contao.org)
+This is an extension for the CMS Contao (www.contao.org)
 Tested in version 3.0.6
 
 Purpose
